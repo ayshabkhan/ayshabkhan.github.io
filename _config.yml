@@ -24,9 +24,11 @@ github_username:  ayshabkhan
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+google_analytics: UA-90469634-1
