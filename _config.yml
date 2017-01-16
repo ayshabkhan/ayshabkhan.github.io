@@ -16,7 +16,7 @@
 title: Aysha Khan
 email: ayshabkhan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Aysha Khan is a journalist covering religion, technology and underrepresented communities. She lives in the Baltimore area.
+  Aysha Khan is a journalist covering religion, technology and underrepresented communities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayshabkhan
@@ -24,7 +24,7 @@ github_username:  ayshabkhan
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: slate
 gems:
   - jekyll-feed
 exclude:
