@@ -120,7 +120,7 @@ permalink: /bylines/
 
 [Actor Kal Penn talks career in Hollywood, White House](http://umdplex.com/art/actor-kal-penn-talks-career-in-hollywood-white-house/). March 2014
 
-##### The Tempest
+#### **The Tempest**
 
 [6 digital projects that document the ups and downs of Asian history](http://thetempest.co/author/ayshakhan/http://thetempest.co/2016/03/15/culture-taste/culture/digital-history-asian-projects/). March 2016
 
@@ -138,7 +138,7 @@ permalink: /bylines/
 
 [10-year-old me, don’t you dare shave your arms](http://thetempest.co/2015/02/05/life-love/humor/10-year-old-dont-dare-shave-arms/). February 2015. Mentioned in [Cosmo](http://www.cosmopolitan.com/career/news/a57063/twentysomething-muslim-women-in-media/).
 
-##### The Canary
+#### **The Canary**
 
 [Are the anti-vaccination and abstinence movements damaging black schoolgirls’ health?](http://www.thecanary.co/2015/11/05/anti-vaccination-abstinence-movements-damaging-minority-schoolgirls-health/) November 2015
 
@@ -146,26 +146,26 @@ permalink: /bylines/
 
 [New blindness treatment could be a gene therapy breakthrough](http://www.thecanary.co/2015/10/08/new-blindness-treatment-be-gene-therapy-breakthrough/). October 2015
 
-##### Muftah Magazine
+#### **Muftah Magazine**
 
 [Five years after Lahore attacks, Pakistan’s Ahmadis live in the shadows](http://muftah.org/five-years-after-lahore-attacks-pakistans-ahmadis-live-in-the-shadows/#.VWcrKlnBzGe). May 2015
 
-##### Law Street Media
+#### **Law Street Media**
 
 [As more questionable reports emerge, Bill O’Reilly’s ratings increase](http://lawstreetmedia.com/news/headlines/as-more-questionable-reports-emerge-and-bill-oreillys-ratings-increase/). March 2015
 
-##### Journalism Center on Children and Families
+#### **Journalism Center on Children and Families**
 
 [Bridging the gap: Social workers report back](http://www.humansafetynet.com/bridging-the-gap-social-workers-report-back/). December 2014
 
-##### AltMuslimah
+#### **AltMuslimah**
 
 [What rocked Muslim America’s boat in 2014](http://www.altmuslimah.com/2014/12/2014-roundup-what-rocked-muslim-americas-boat-in-2014/). December 2014
 
-##### Medium
+#### **Medium**
 
 [To my classmates: Thank you, from the girl with the hijab](https://medium.com/this-happened-to-me/to-my-classmates-thank-you-from-the-girl-with-the-hijab-121f119a36a8). Medium, August 2013
 
-##### Press mentions
+#### **Press mentions**
 
 [American Muslims weather a backlash following massacre in Paris](http://www.mcclatchydc.com/news/nation-world/world/article45651645.html). Quoted in McClatchyDC. November 2015
