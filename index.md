@@ -5,7 +5,7 @@
 layout: home
 ---
 
-!(geo_laptop.jpg)
+![This should have been a bland hero image; you're not missing much.](geo_laptop.jpg)
 
 I’m a journalist and web producer based just outside Baltimore. My work focuses on religion, underrepresented communities, technology and the intersections therein. Usually that means covering Muslim American issues and experiences, or exploring cool ways techies and artists are pushing society forward.
 
