@@ -3,10 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Home
 ---
-
-### **Hey, there!**
 
 I’m a journalist and web producer based just outside Baltimore. My work focuses on religion, underrepresented communities, technology and the intersections therein. Usually that means covering Muslim American issues and experiences, or exploring cool ways techies and artists are pushing society forward.
 
