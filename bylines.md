@@ -4,7 +4,7 @@ title: Bylines
 permalink: /bylines/
 ---
 
-##### ThinkProgress
+#### **ThinkProgress**
 
 [What will government transparency look like under Trump?](https://thinkprogress.org/trump-government-transparency-d3b8c2c44c3b) December 2016
 
@@ -18,7 +18,7 @@ permalink: /bylines/
 
 [Tracking the Kaepernick effect: The anthem protests are spreading](https://thinkprogress.org/national-anthem-sports-protest-tracker-kaepernick-284ff1d1ab3e#.8mt1c7oo0). September 2016. Double byline
 
-##### Technical.ly
+#### **Technical.ly**
 
 [How Project Sidewalk is making DC more accessible](http://technical.ly/dc/2016/11/30/project-sidewalk-accessibility/). November 2016
 
@@ -30,7 +30,7 @@ permalink: /bylines/
 
 [How D.C. illustrator Mari Andrew went from doodles to Instagram fame in one short year](http://technical.ly/dc/2016/09/21/mari-andrew/). September 2016
 
-##### Religion News Service
+#### **Religion News Service**
 
 [On Eid al-Adha, questioning Muslims’ passion for meat](http://religionnews.com/2016/09/12/on-eid-al-adha-questioning-muslims-passion-for-meat/). September 2016. Republished in [USA Today](http://www.usatoday.com/story/news/world/2016/09/12/eid-al-adha-muslims/90261968/) and [Deseret News](http://www.deseretnews.com/article/865662273/On-Eid-al-Adha-questioning-Muslims7-passion-for-meat.html?pg=all)
 
@@ -72,15 +72,15 @@ permalink: /bylines/
 
 [Muslim civic groups outside Islamic world come together](http://www.religionnews.com/2016/02/04/muslim-civic-groups-outside-islamic-world-come-together/). February 2016. Republished in [The Washington Post](https://www.washingtonpost.com/national/religion/muslim-civic-groups-outside-islamic-world-come-together/2016/02/04/0d73f282-cb93-11e5-b9ab-26591104bb19_story.html)
 
-##### Kajal Magazine
+#### **Kajal Magazine**
 
 [The Fruit They Bore](http://kajalmag.com/the-fruit-they-bore/). June 2016
 
-##### Reorient Magazine
+#### **Reorient Magazine**
 
 [Face-Off: Exploring the effacement of female voices in Persian and Urdu poetry](http://www.reorientmag.com/2016/04/female-persian-urdu-poetry/). April 2016
 
-##### American Journalism Review
+#### **American Journalism Review**
 
 [Six strategies for choosing your next skill in tech](http://ajr.org/2015/05/28/6-strategies-choosing-next-tech-skill/). May 2015
 
@@ -90,13 +90,13 @@ permalink: /bylines/
 
 [How journalism professors used Legos to teach Super Bowl data visualization](http://ajr.org/2015/02/02/journalism-professors-used-legos-teach-super-bowl-data-visualization/). February 2015. Featured in [Romenesko](http://jimromenesko.com/2015/04/01/morning-report-for-april-1-2015/) and [Editor & Publisher](http://www.editorandpublisher.com/news/how-journalism-professors-used-legos-to-teach-super-bowl-data-visualization/).
 
-##### The Riveter Magazine
+#### **The Riveter Magazine**
 
 [Street harassment: A global problem, captured on film](http://www.therivetermagazine.com/street-harassment-a-global-problem-captured-on-film/). August 2015
 
 [Wrapped in brown skin](http://www.therivetermagazine.com/wrapped-in-brown-skin/). April 2015
 
-##### Plex
+#### **Plex**
 
 [We’re hearing mixed reports on the Islamic State’s supposed tech savvy. But does it even matter?](https://medium.com/umdplex/were-hearing-mixed-reports-on-isis-s-supposed-tech-savvy-but-does-it-even-matter-32219d6ed73f#.szwtue84d) May 2016. Featured in Medium editors’ picks
 
