@@ -169,3 +169,5 @@ permalink: /bylines/
 #### **Press mentions**
 
 [American Muslims weather a backlash following massacre in Paris](http://www.mcclatchydc.com/news/nation-world/world/article45651645.html). Quoted in McClatchyDC. November 2015
+
+[#MakingHistory with Aysha Khan, millennial journalist](http://genprogress.org/voices/2015/05/15/36665/makinghistory-with-aysha-khan-millennial-journalist/). Featured in the Center for American Progress' Generation Progress blog. May 2015
