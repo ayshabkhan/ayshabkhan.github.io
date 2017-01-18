@@ -6,7 +6,9 @@ layout: home
 ---
 
 ![This should have shown you a cliched hero image; you're not missing much.](/img/sarah-dorweiler.jpg)
-<br>
+
+&nbsp;
+
 I’m a journalist and web producer based just outside Baltimore. My work focuses on religion, underrepresented communities, technology and the intersections therein. Usually that means covering Muslim American issues and experiences, or exploring cool ways techies and artists are pushing society forward.
 
 My reporting has been published in The Washington Post, USA Today, ThinkProgress, American Journalism Review, Sojourners and other outlets. (Find my clips [here](http://aysha.us/bylines/).) Sometimes I do web design, social media, data visualization and graphics, too, so if you want you can call me a digital journalist.
