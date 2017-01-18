@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![This should have shown you a cliched hero image; you're not missing much.](sarah-dorweiler.jpg)
+![This should have shown you a cliched hero image; you're not missing much.](/img/sarah-dorweiler.jpg)
 <br>
 I’m a journalist and web producer based just outside Baltimore. My work focuses on religion, underrepresented communities, technology and the intersections therein. Usually that means covering Muslim American issues and experiences, or exploring cool ways techies and artists are pushing society forward.
 
