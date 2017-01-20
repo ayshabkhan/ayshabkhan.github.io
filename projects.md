@@ -25,6 +25,12 @@ I created and maintain a Wordpress website for the Ahmadiyya Muslim Community's 
 ![These are some design elements I made.](/img/sf.png)
 ![This is a design element I made.](/img/animal.jpg)
 
+#### **Python web scraper: County court docket**
+
+Using Python's [ScraperWiki](https://github.com/scraperwiki/scraperwiki-python) library, I helped build a web scraper for the Prince George’s County Circuit Court’s daily docket. The scraper spits out a .tsv file of docket information, pulled from a webpage that updates every day to list each day's docket as pre-formatted text. We also used web browser automator [Selenium](http://www.seleniumhq.org/) to worked on a scraper to pull detailed case data from Maryland's state case search database for each case number listed on the docket, so they can be integrated to become a useful reporting system in a local newsroom.
+
+You can find all the code for that project, as well as a writeup of our process, [on GitHub](https://github.com/JOUR479K/team_1).
+
 #### **Website: aysha.us**
 
 After years of using Wordpress and a handcoded HTML5 site, I recently switched my personal webpage to using [Jekyll](https://jekyllrb.com/), a tool that allows for static website development with no need for a database or content management system, based on the open-source [Minima](https://github.com/jekyll/minima) theme. You can also find (and feel free to use) the code I deployed [here](https://github.com/ayshabkhan/ayshabkhan.github.io), although I'll note that I'm already looking at shifting over to [Gatsby](https://github.com/gatsbyjs/gatsby), a static website generator based in React.js.
@@ -35,11 +41,11 @@ Anyhow, this site is hosted on GitHub Pages and the home page image was shot by 
 
 ![This is a book cover I made.](/img/bookcover.png)
 ![This is a design I made.](/img/lemon.jpg)
-![This is a book cover I made.](/img/obama.jpg)
-![This is a book cover I made.](/img/sopa.jpg)
+![This is a design I made.](/img/obama.jpg)
 ![This is a design I made.](/img/ansar1.jpg)
 ![This is a design I made.](/img/ansar2.jpg)
 ![This is a design I made.](/img/ansar3.jpg)
+![This is a design I made.](/img/sopa.jpg)
 
 #### **Interactive storytelling: "Kickstarting Persian digital humanities"**
 
@@ -61,3 +67,9 @@ I also used HTML5, CSS3, Javascript and a number of third-party APIs and Javascr
 
 ![This is another design element I made.](/img/wander.png)
 ![And here's yet another design element I made.](/img/wander2.png)
+
+#### Front-end design: Plan it web app
+
+![This is a design I made.](/img/planit.jpg)
+
+I developed the front-end design for version 1.0 of a basic event-planning web app created at Technica, a women's hackathon in Maryland. You can find the code [on GitHub](https://github.com/cnoellekb/planit).
