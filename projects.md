@@ -40,11 +40,10 @@ Anyhow, this site is hosted on GitHub Pages and the home page image was shot by 
 #### **Print design: Book covers, fliers and posters**
 
 ![This is a book cover I made.](/img/bookcover.png)
-![This is a design I made.](/img/lemon.jpg)
-![This is a design I made.](/img/obama.jpg)
 ![This is a design I made.](/img/ansar1.jpg)
 ![This is a design I made.](/img/ansar2.jpg)
 ![This is a design I made.](/img/ansar3.jpg)
+![This is a design I made.](/img/lemon.jpg)
 ![This is a design I made.](/img/sopa.jpg)
 
 #### **Interactive storytelling: "Kickstarting Persian digital humanities"**
@@ -68,7 +67,7 @@ I also used HTML5, CSS3, Javascript and a number of third-party APIs and Javascr
 ![This is another design element I made.](/img/wander.png)
 ![And here's yet another design element I made.](/img/wander2.png)
 
-#### Front-end design: Plan it web app
+#### **Front-end design: Plan it web app**
 
 ![This is a design I made.](/img/planit.jpg)
 
