@@ -20,6 +20,8 @@ permalink: /bylines/
 
 #### **Technical.ly**
 
+[This is how to build an Instagram creative community](http://technical.ly/dc/2017/01/27/instagram-communities/). January 2017.
+
 [How Project Sidewalk is making DC more accessible](http://technical.ly/dc/2016/11/30/project-sidewalk-accessibility/). November 2016
 
 [10 projects from Technica, the world’s biggest female hackathon](http://technical.ly/baltimore/2016/11/07/technica-female-hackathon-projects/). November 2016
