@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aysha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aysha.us
+  * I am aysha (https://keybase.io/aysha) on keybase.
+  * I have a public key with fingerprint 19C4 42E0 709E 9775 AD45  4244 6BAB 0706 D676 0B34
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010141b8ce0362182e4ea5f612831d7739147aba55debd8ec7517c39603fe1252ec30a",
+            "fingerprint": "19c442e0709e9775ad4542446bab0706d6760b34",
+            "host": "keybase.io",
+            "key_id": "6bab0706d6760b34",
+            "kid": "010141b8ce0362182e4ea5f612831d7739147aba55debd8ec7517c39603fe1252ec30a",
+            "uid": "ec0a81310cc4c66720666a33f84ee819",
+            "username": "aysha"
+        },
+        "service": {
+            "hostname": "aysha.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485838706,
+    "expire_in": 157680000,
+    "prev": "34218ace12c6e5654cdf0e2766afcfd911cfb718e01d34f410585f7f94a7266e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIfAnicrVJdSBVBGL1m/qQFklJWFLWSFPizszM7u3u1KCLDMhSLsLp62Z2d9S7W
+7m13r2nmQ39USFhSeCExiMh6UOolMCiyH0UMNDGMzCIoEqKoKJIIbFYKeuixeRnm
+zDlnzneYhwsSA2kJJbGRrR/WDJcmDPW1xgJVZ5c4TZxm641csImro7Mb3adT1wvX
+mToX5HjAAwQ0mVAeYgHIAkVUFQ0MBBkCXZKgApCkaqoo6lTTZUokEUgEKpiHBgWC
+KFACeZXL4wzTqqVO1DEtj9kChSAkUF7iFapIkqjqSEQCQlhTNQZiHUuY1yBiwojt
++goWTlNdWmDaDGOH8Gy8f/D/c+7YrB0lvCoDCHhCEMFYEniMsQqhISNKZaD4RJc6
+lrqfMrba6EZUrjmPY1C9Sajfqj/G39cFMZeJoo7t2cTex9CI50WDvshrjPqsg1QL
+/9aHNdPSWX9MUE8d17QtLggYk3imbwiQLMpQZjXkcbQhajo0bPoMUcIyz5b/DK1n
+lhCxJlTC5iOYilhERDd4KkhsFIMYugIAMTQJyJQHOkQGArwoi4ZkKEiVBIwp5090
+wLK5IGQx1Vpm6Zq1lurFHMo1378XmhtISAskJ83x/1UgbV7Gn982cyvlZ6qd2hNa
+Z/V66W0w//b4icnoW9jw5mbFt42FcfistiVp7scbuVkr+3IHpq+lLM9d0f043irn
+R87Hz5nZdwZfPdp7Ru5qbMqxGp7G11d9WjiUfqGjZVf11y2R8j35XYe3K8MfP9dr
+u1NCVS935JQcLNoc6unuNJwfGScHHpx2a0Id0xM/Zz4XL9sJV918cuPYaNIoONQ9
+Xdo5PDWZePR1b9nd5vmXKtuXoueZR+qmtm0qLZ4YwzsnstzJw1f7qy8mrnReFDtj
+dk7qUGXl+/3d8eCGwev6+Km1i8yZ8bzJmrLVXZePJ7ddKffevW+DFT1Hv498GTjW
+v6Mvc3F2+0RmRnth0S/2iDn4
+=uZUJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aysha
+
+==================================================================
