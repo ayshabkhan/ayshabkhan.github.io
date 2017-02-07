@@ -17,14 +17,6 @@ I worked as the social media editor at Religion News Service, a daily news wire 
 ![This is a design I made for our Instagram.](/img/ig1.png)
 ![This is a design I made for our Instagram.](/img/ig2.png)
 
-#### **Website: Spiritual Fitness**
-
-I created and maintain a Wordpress website for the Ahmadiyya Muslim Community's national [Spiritual Fitness project](http://spiritualfitness.us). I also created all the graphic elements there and write most of the site's copy, part of the branding work I led there. I also lead the project's [Twitter account](https://twitter.com/spiritualfit) for several years, bringing the follower count from 0 to well over 1,500 users.
-
-![This is a design element I made.](/img/bookmark.jpg)
-![These are some design elements I made.](/img/sf.png)
-![This is a design element I made.](/img/animal.jpg)
-
 #### **Python web scraper: County court docket**
 
 Using Python's [ScraperWiki](https://github.com/scraperwiki/scraperwiki-python) library, I helped build a web scraper for the Prince George’s County Circuit Court’s daily docket. The scraper spits out a .tsv file of docket information, pulled from a webpage that updates every day to list each day's docket as pre-formatted text. We also used web browser automator [Selenium](http://www.seleniumhq.org/) to worked on a scraper to pull detailed case data from Maryland's state case search database for each case number listed on the docket, so they can be integrated to become a useful reporting system in a local newsroom.
@@ -51,8 +43,15 @@ Anyhow, this site is hosted on GitHub Pages and the home page image was shot by 
 I wrote an article about a groundbreaking Persian digital humanities project and designed a [responsive webpage](http://www.jclass.umd.edu/652352/2015fall/lhoffmann/khan/index.html) with multimedia elements – original photography, a longform interview hosted on Soundcloud, and an interactive map using the Storymap.js Javascript library –  built with HTML5 and CSS. 
 
 ![This is a design element I made.](/img/persian.png)
-![This is a design element I made.](/img/map.png)
 ![This is a design element I made.](/img/mapcover.png)
+![This is a design element I made.](/img/map.png)
+
+#### **Website: Spiritual Fitness**
+
+I created and maintain a Wordpress website for the Ahmadiyya Muslim Community's national [Spiritual Fitness project](http://spiritualfitness.us). I also created all the graphic elements there and write most of the site's copy, part of the branding work I led there. I also lead the project's [Twitter account](https://twitter.com/spiritualfit) for several years, bringing the follower count from 0 to well over 1,500 users.
+![This is a design element I made.](/img/ramadan1.jpg)
+![These are some design elements I made.](/img/sf.png)
+![This is a design element I made.](/img/ramadan2.jpg)
 
 #### **Interactive storytelling: CodePen**
 
