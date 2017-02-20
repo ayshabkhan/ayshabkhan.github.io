@@ -13,6 +13,6 @@ I’m a journalist and web producer based just outside Baltimore. My work focuse
 
 My reporting has been published in The Washington Post, USA Today, ThinkProgress, American Journalism Review, Sojourners and other outlets. (Find my clips [here](http://aysha.us/bylines/).) Sometimes I do web design, social media, data visualization and graphics, too, so if you want you can call me a digital journalist.
 
-I’ve worked at the Religion News Service, The Tempest, and the Journalism Center on Children and Families. I recently graduated from the University of Maryland, where I studied multiplatform journalism and Middle Eastern affairs. There, I ran [Plex](https://medium.com/umdplex), an independent, award-winning student news site highlighting diversity and activism.
+I currently work as social media editor at Religion News Service, where I also contribute some freelance reporting on Muslim issues. I recently graduated from the University of Maryland, where I studied multiplatform journalism and Middle Eastern affairs. There, I ran [Plex](https://medium.com/umdplex), an independent, award-winning student news site highlighting diversity and activism.
 
 If anything sounds interesting to you, I’m actively looking for reporting, writing and editing gigs. Particularly interested in expanding my portfolio of writing on digital culture, cybersecurity, mass and targeted surveillance, civic technology and activism, South Asian culture and religion, Muslim American issues, and Islamic sectarianism.
