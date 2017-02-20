@@ -20,6 +20,8 @@ permalink: /bylines/
 
 #### **Technical.ly**
 
+[#WeNeedDiverseBooks meets #dctech with Kickstarter hit ‘Sasha Tech Savvy Loves to Code.’](http://technical.ly/dc/2017/02/13/sasha-ariel-tech-savvy-code-kickstarter/) February 2017.
+
 [This is how to build an Instagram creative community](http://technical.ly/dc/2017/01/27/instagram-communities/). January 2017.
 
 [How Project Sidewalk is making DC more accessible](http://technical.ly/dc/2016/11/30/project-sidewalk-accessibility/). November 2016
