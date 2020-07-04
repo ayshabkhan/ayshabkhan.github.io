@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display");
 
 /*
 	Story by HTML5 UP
@@ -1686,6 +1687,10 @@
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
+	}
+
+	h1, h2, h3, h4 {
+		font-family: "Playfair Display";
 	}
 
 	a {
